@@ -22,3 +22,6 @@ mkdir -p src/main/webapp/WEB-INF/
     <webXml>src\main\webapp\WEB-INF\web.xml</webXml>        
   </configuration>
 </plugin>
+
+  
+  https://github.com/efsavage/hello-world-war.git
