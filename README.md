@@ -25,3 +25,5 @@ mkdir -p src/main/webapp/WEB-INF/
 
   
   https://github.com/efsavage/hello-world-war.git
+  
+  cp ~/docker_maven/target/hello-world-war-1.0.0.war ~/docker_tomcat/tomcat/app/hello_new.war
